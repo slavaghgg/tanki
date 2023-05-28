@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\DAMIR SOROKIN\SFML_TEMPLATE\Player.h(18,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\DAMIR SOROKIN\SFML_TEMPLATE\main.cpp(11,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SFML_TEMPLATE.vcxproj -> D:\DAMIR SOROKIN\SFML_TEMPLATE\x64\Debug\SFML_TEMPLATE.exe
